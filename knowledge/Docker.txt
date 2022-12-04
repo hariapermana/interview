@@ -1,0 +1,1 @@
+Docker adalah sistem yang menggunakan mesin virtual untuk mengirimkan aplikasi dalam bentuk package yang disebut kontainer.

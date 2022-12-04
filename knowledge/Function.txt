@@ -1,0 +1,1 @@
+Function atau fungsi adalah sebuah action atau sub program yang tugas nya menyelesaikan sesuatu.

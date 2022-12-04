@@ -1,0 +1,1 @@
+Class adalah sesuatu yang melekat atau mendefinisikan objek tertentu.

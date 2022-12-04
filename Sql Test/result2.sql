@@ -1,0 +1,1 @@
+SELECT user_id, group_concat(item) as asset from ASSET;

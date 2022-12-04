@@ -1,0 +1,6 @@
+3 Jenis architecture : 
+- Layered (n-tier) architecture
+- Microservices architecture
+- Event-driven architecture
+
+Paling terbaik menurut saya adalah : Microservices architecture karena lebih fleksibel dan scalable.

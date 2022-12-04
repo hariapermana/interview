@@ -1,0 +1,1 @@
+Devops adalah salah satu role di industri IT yang mempunyai tugas membangun komuniksi otomisasi dan integrasi. Devops juga mempunyai tugas membangun dan mengelola infrastruktur yang dibutuhkan oleh suatu product.

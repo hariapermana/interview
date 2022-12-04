@@ -1,0 +1,1 @@
+Cypress adalah tools yang digunakan untuk melakukan testing . tools ini bersifat open source dan dapat didownload pada web Cypress.  Dengan menggunakan Cypress, user dapat melakukan beberapa jenis pengujian seperti: end to end tests, integration test, serta unit test.

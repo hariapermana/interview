@@ -1,0 +1,1 @@
+SELECT DISTINCT item from ASSET;

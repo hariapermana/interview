@@ -1,0 +1,1 @@
+Kubernetes adalah sistem yang mengelola container  dimana container dapat dijelaskan sebagai mesin virtual. Untuk membuat aplikasi, Perlu membuat sekumpulan kontainer, lalu menggunakan Kubernetes untuk mengelola kontainer tersebut
